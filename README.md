@@ -14,10 +14,11 @@
  
 <p align="left"> 
 <a href="https://t.me/mahatomic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" height="36" alt="telegram" title="telegram"/></a>
+<a href="https://wa.me/79131011640?" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="38" height="38" alt="WhatsApp" title="WhatsApp"/></a>
 <a href="https://vk.com/mahatomic" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" width="36" height="36" alt="VK" title="VK"/></a>
 <a href="msurcukova@mail.ru" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/mailru-1024.png" width="36" height="36" alt="mail.ru" title="mail.ru"/></a>
 <a href="https://discordapp.com/users/mahatomic" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" width="36" height="36" alt="discord" title="discord"/></a>
-<a href="https://www.instagram.com/mahatomic?igsh=ZjQzZnl6bXdsZTVq&utm_source=qr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="36" height="36" alt="instagram" title="instagram"/></a>
+<a href="https://www.instagram.com/mahatomic?" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="36" height="36" alt="instagram" title="instagram"/></a>
 </p>
 <h2 align="left">💻 Стек технологий</h2>
 
