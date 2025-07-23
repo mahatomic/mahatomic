@@ -20,7 +20,7 @@
 <a href="https://discordapp.com/users/697036552001421353/" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" width="36" height="36" alt="discord" title="discord"/></a>
 <a href="https://www.instagram.com/mahatomic?" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="36" height="36" alt="instagram" title="instagram"/></a>
 </p>
-<h2 align="left">💻 Стек технологий</h2>
+<h2 align="left">💻 Языки и инструменты</h2>
 
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" width="36" height="36" alt="SQL" title="SQL"/></a>
