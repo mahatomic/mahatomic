@@ -26,6 +26,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" title="Pandas"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib.svg" width="36" height="36" alt="Matplotlib" title="Matplotlib"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="46" height="46" alt="MySQL" title="MySQL"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter" title="Jupyter Notebook"/></a>
 <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" height="36" alt="DBeaver" title="DBeaver"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" title="PyCharm"/></a>
