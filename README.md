@@ -1,5 +1,5 @@
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=DC143C&width=500&height=70&duration=4000&lines=Привет+!+👋;+Меня+зовут+Мария+✨;+И+я+дата-аналитик😎" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=DC143C&width=500&height=70&duration=4000&lines=Привет+!+👋;+Меня+зовут+Мария+✨;+И+я+дата-аналитик+😎" />
 </div>
 <h2 align="left">👩‍💻 Обо мне</h2>
 
